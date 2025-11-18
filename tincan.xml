@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://AMSED6enSp2SdUGE_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Writing reports for governments and boards</name>
+			<description lang="und" />
+			<launch lang="und">index_lms.html</launch>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5r33T1v3Hax" type="http://adlnet.gov/expapi/activities/objective">
+			<name lang="und">Writing reports for governments and boards</name>
+			<description lang="und">Writing reports for governments and boards</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6W3XnUNwVoC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Module Title slide</name>
+			<description lang="und">Module Title slide</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5ehsfCXTTP4" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Overview</name>
+			<description lang="und">Overview</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5lhXWZEQs33" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">1</name>
+			<description lang="und">1</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6OqJxknojrN" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">1</name>
+			<description lang="und">1</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6qMKbKswASa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">1</name>
+			<description lang="und">1</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6NU8QlPbHHl" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">1</name>
+			<description lang="und">1</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6ZMt8bWExgv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Learning objectives</name>
+			<description lang="und">Learning objectives</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5sGKG0FjNSf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6VUFj8Q1Tt8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6HC38NhNRzg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Report types</name>
+			<description lang="und">Report types</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/61aDYGGwO5L" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5mEOTbcxEuu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What is a board report?</name>
+			<description lang="und">What is a board report?</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5jkaDrg7bB0" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6FyMdTgo6tZ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5nort6eqfwc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">What is a grant application? </name>
+			<description lang="und">What is a grant application? </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6EnP6l7lPYs" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6YOZWY8FBAv" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6USHvmzJHtU" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/60011PFC4cn" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Starting a report: Know your purpose and target audience</name>
+			<description lang="und">Starting a report: Know your purpose and target audience</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6lALqHJPUmV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6LWtZk2BIsC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Purpose (why am I writing this?)</name>
+			<description lang="und">Purpose (why am I writing this?)</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6hekTpm9Cbq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6ivl9BD9F11" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Audience (who am I writing this for?)</name>
+			<description lang="und">Audience (who am I writing this for?)</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/666RhpwabOQ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5l31DlBNJKS" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Before you write: Collect all the relevant information</name>
+			<description lang="und">Before you write: Collect all the relevant information</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6qGo9tKQItj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5VNYglW7pAa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5qeAbGFVc0Q" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Using data</name>
+			<description lang="und">Using data</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5wvWV4WHarL" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5jYYufKy70B" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/62OSKb3bUwj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/67XiInQQRop" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test your knowledge</name>
+			<description lang="und">Test your knowledge</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/67XiInQQRop/6XuHTRlbHNn" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You are asked to write a quarterly report for the Board. 
+
+What is the first step?</name>
+			<description lang="und">You are asked to write a quarterly report for the Board. 
+
+What is the first step?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6WhBPHc93SD</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6JxXGoewQrK</id>
+					<description lang="und">Start writing about what has happened in the clinic over the past three months</description>
+				</component>
+				<component>
+					<id>choice_6WhBPHc93SD</id>
+					<description lang="und">Understand the purpose of the report, and who the audience is</description>
+				</component>
+				<component>
+					<id>choice_65hwe3Bgx2Y</id>
+					<description lang="und">Collect the necessary evidence to show that you have achieved your KPIs</description>
+				</component>
+				<component>
+					<id>choice_66EZC76YuVv</id>
+					<description lang="und">Ask the CEO for a board report template</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6NJbCdTVzYB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 2</name>
+			<description lang="und">Question 2</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6NJbCdTVzYB/6ZwTrVhFEmD" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">The CEO explains that the board requires a report on the health and safety of the organisation. What information would be relevant to collect before starting your report?</name>
+			<description lang="und">The CEO explains that the board requires a report on the health and safety of the organisation. What information would be relevant to collect before starting your report?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_68XWSQQu3vV</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6MlwLhqjQOf</id>
+					<description lang="und">A graph that shows incidents and near misses this quarter compared to the last three quarters of the year</description>
+				</component>
+				<component>
+					<id>choice_63mcjBWjVhn</id>
+					<description lang="und">Figures that show how many staff have completed their mandatory training</description>
+				</component>
+				<component>
+					<id>choice_6DGKhYq9k2c</id>
+					<description lang="und">Basic information about a serious health and safety incident that happened in the clinic last month</description>
+				</component>
+				<component>
+					<id>choice_68XWSQQu3vV</id>
+					<description lang="und">All of these</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6jOcI7qISXj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 3</name>
+			<description lang="und">Question 3</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6jOcI7qISXj/5eslk1l1RLF" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">All of the following is TRUE about using data, EXCEPT:</name>
+			<description lang="und">All of the following is TRUE about using data, EXCEPT:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6WqEoEBq7Bv</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5uur2lJ28LQ</id>
+					<description lang="und">Data is useful to help tell your story and convince readers of the accuracy of your report</description>
+				</component>
+				<component>
+					<id>choice_6k6bduXjXUR</id>
+					<description lang="und">Where possible, use graphs, pictures or tables to present data points</description>
+				</component>
+				<component>
+					<id>choice_6WqEoEBq7Bv</id>
+					<description lang="und">When using quantitative data, always include a long and detailed description using different styles and abbreviations to target all readers</description>
+				</component>
+				<component>
+					<id>choice_5zu3K5lKT72</id>
+					<description lang="und">It is important to only include relevant data. Too many numbers, confusing graphs or irrelevant photos will distract the reader and make it more difficult to understand key messages</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5XergVIVHoJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step one: Decide on the document structure</name>
+			<description lang="und">Step one: Decide on the document structure</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6HmfJUNjQLg" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6VUPW9svAIG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6SQgkMR9Lcf" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5WgGmMWVIGD" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6MCbFJnAWIW" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6JdrdAil2n8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Step two: Write in plain English</name>
+			<description lang="und">Step two: Write in plain English</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6r2B6bJ7ZEa" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5lBn7oieMvi" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6cEtVhE01Iw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/69nnfLaadQc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Tips to writing in plain English</name>
+			<description lang="und">Tips to writing in plain English</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5kS0JbZ6oqq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5VwbTaulZ5O" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5lhoYu1qwgE" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The seven Cs of communication</name>
+			<description lang="und">The seven Cs of communication</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5UoDxCrdFOq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test your knowledge</name>
+			<description lang="und">Test your knowledge</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5UoDxCrdFOq/6FJH9htI812" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">You are trying to decide on the structure of the report before you start writing, all of the following are true, EXCEPT:</name>
+			<description lang="und">You are trying to decide on the structure of the report before you start writing, all of the following are true, EXCEPT:</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5gPDMvrpYmO</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5sLY3faGIAY</id>
+					<description lang="und">Headings and subheadings are useful to guide the reader’s eye and tell the story</description>
+				</component>
+				<component>
+					<id>choice_5gPDMvrpYmO</id>
+					<description lang="und">This is an internal report, so you won’t need headings for the document. You can just write key points in a list and send it to your CEO</description>
+				</component>
+				<component>
+					<id>choice_6U1s3bXrbPL</id>
+					<description lang="und">Templates are useful because the audience may be expecting the information in a specific format. A board report template may be stored on the internal hard-drive or provided by the CEO</description>
+				</component>
+				<component>
+					<id>choice_6hOmt7WHyIl</id>
+					<description lang="und">A brief summary may be useful at the beginning of the report to highlight key points</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/62mrhX8vYkt" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 5</name>
+			<description lang="und">Question 5</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/62mrhX8vYkt/6pRokm91X0W" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Which of the following texts is consistent with plain English?</name>
+			<description lang="und">Which of the following texts is consistent with plain English?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6DSJx05Hv8G</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6DSJx05Hv8G</id>
+					<description lang="und">Over the past three months, work health and safety has been a top priority for Gumtree clinic. There has been one medication error and two near misses. All three incidents have been reviewed with improvement plans in place. Jenny (Clinic Pharmacist) will be providing education and training on medication safety next month. </description>
+				</component>
+				<component>
+					<id>choice_6eoDKsL22xo</id>
+					<description lang="und">Over the past three months WHS has been a top priority for Gumtree clinic, with only 1 ME and 2 near misses. Review of the incidents has shown that Roger was at fault when administering medications to Julie, Michelle had a near-miss needlestick injury and Ricky almost gave someone a medication they were allergic too - if it hadn’t been for his wife who reminded him she was allergic. In order to prevent future errors, Jenny won’t be available this month, but she will commence training next month.</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6J31jldufEF" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 6</name>
+			<description lang="und">Question 6</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6J31jldufEF/5fbdFaz3pwg" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">When writing a formal report, it is better to use big words and long sentences to impress your readers.</name>
+			<description lang="und">When writing a formal report, it is better to use big words and long sentences to impress your readers.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_69yYEVvTAbg</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5k2atzzrD68</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_69yYEVvTAbg</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6UoUIT9uQnb" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Addressing selection criteria, key performance indicators and performance targets</name>
+			<description lang="und">Addressing selection criteria, key performance indicators and performance targets</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6USDkM9Gnbp" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5d9O44mmVXM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5qx6xPQpL4t" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6jMY8BGsma9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5im3pSbd73p" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">The importance of spelling and grammar </name>
+			<description lang="und">The importance of spelling and grammar </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5oEYMI9b2a2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6MIMby7cTWI" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5pwvA5zjA2k" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5lYefsnuXwC" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Choosing the right word</name>
+			<description lang="und">Choosing the right word</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/60mJmvsyJ02" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5cqGW5E8mi5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Contractions</name>
+			<description lang="und">Contractions</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6g2Op6vXDYz" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6o2Ll7uFBOM" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Numbers</name>
+			<description lang="und">Numbers</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5lXGyrfrGQw" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5sWYBFKh7pu" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Punctuation</name>
+			<description lang="und">Punctuation</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5cSP9lHmKI9" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6AIFIZ3E7u5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6QUdP833GeV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Abbreviations or acronyms </name>
+			<description lang="und">Abbreviations or acronyms </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6FvdhvzHuFm" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/622gqNRdByT" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Test your knowledge</name>
+			<description lang="und">Test your knowledge</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/622gqNRdByT/5gpuwH6YCSN" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">There is no need to define simple and basic abbreviations that are commonly used by everyone.</name>
+			<description lang="und">There is no need to define simple and basic abbreviations that are commonly used by everyone.</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6bNUYZvGEYZ</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5ydpNbgbyRt</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6bNUYZvGEYZ</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5t7wEsb6v6j" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 8</name>
+			<description lang="und">Question 8</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5t7wEsb6v6j/6pric0SDn7U" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">When writing numbers, pick one method and stick with it throughout your report. </name>
+			<description lang="und">When writing numbers, pick one method and stick with it throughout your report. </description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6etwDTz15T5</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6etwDTz15T5</id>
+					<description lang="und">True</description>
+				</component>
+				<component>
+					<id>choice_6jQM76B6ZA7</id>
+					<description lang="und">False</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5qih1WaW9W5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 9</name>
+			<description lang="und">Question 9</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5qih1WaW9W5/62RoNfPrZb8" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Pick Many</name>
+			<description lang="und">Pick Many</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_6S7pwkttXFu</correctResponsePattern>
+				<correctResponsePattern>choice_5Zc9oPyvtiu</correctResponsePattern>
+				<correctResponsePattern>choice_5iIi0TQLrjb</correctResponsePattern>
+				<correctResponsePattern>choice_6MolDOEpgBb</correctResponsePattern>
+				<correctResponsePattern>choice_6OIC32xp3xd</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_6S7pwkttXFu</id>
+					<description lang="und">Correct 1</description>
+				</component>
+				<component>
+					<id>choice_5Zc9oPyvtiu</id>
+					<description lang="und">Correct 2</description>
+				</component>
+				<component>
+					<id>choice_5iIi0TQLrjb</id>
+					<description lang="und">Correct 3</description>
+				</component>
+				<component>
+					<id>choice_6MolDOEpgBb</id>
+					<description lang="und">Correct 4</description>
+				</component>
+				<component>
+					<id>choice_6OIC32xp3xd</id>
+					<description lang="und">Correct 5</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6eKgLEGIFrB" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Question 10</name>
+			<description lang="und">Question 10</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6eKgLEGIFrB/67aInpBkDv0" type="http://adlnet.gov/expapi/activities/cmi.interaction">
+			<name lang="und">Once you’ve finished writing your board report, what is the best thing to do next?</name>
+			<description lang="und">Once you’ve finished writing your board report, what is the best thing to do next?</description>
+			<interactionType>choice</interactionType>
+			<correctResponsePatterns>
+				<correctResponsePattern>choice_5z5EzBb2Y38</correctResponsePattern>
+			</correctResponsePatterns>
+			<choices>
+				<component>
+					<id>choice_5bdknMwv6dK</id>
+					<description lang="und">Send it to your line manager</description>
+				</component>
+				<component>
+					<id>choice_6Bhh3bEbHpO</id>
+					<description lang="und">Send it to the CEO</description>
+				</component>
+				<component>
+					<id>choice_5z5EzBb2Y38</id>
+					<description lang="und">Read it out loud (in a private room) to make sure it sounds natural and has no spelling or grammar mistakes</description>
+				</component>
+				<component>
+					<id>choice_5jdWSp2OI8I</id>
+					<description lang="und">Publish it online</description>
+				</component>
+			</choices>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6p5ciJnCbee" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Conclusion</name>
+			<description lang="und">Conclusion</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6VMOt8kw92n" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5hFV6AtauvH" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/5ndismYUrwq" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und"> </name>
+			<description lang="und"> </description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6rBe5hh8biy" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz results</name>
+			<description lang="und">Quiz results</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6lK5Xe7nSjc" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Quiz results</name>
+			<description lang="und">Quiz results</description>
+		</activity>
+		<activity id="http://AMSED6enSp2SdUGE_course_id/6QO5aBQB1U8" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">References</name>
+			<description lang="und">References</description>
+		</activity>
+	</activities>
+</tincan>
